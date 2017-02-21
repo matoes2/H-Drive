@@ -1,0 +1,6 @@
+H:\Intro to Programming\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.exe.config
+H:\Intro to Programming\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.exe
+H:\Intro to Programming\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.pdb
+H:\Intro to Programming\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.exe
+H:\Intro to Programming\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.pdb

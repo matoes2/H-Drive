@@ -1,0 +1,6 @@
+H:\Intro to Programming\Average Calculator\Average Calculator\bin\Debug\Average Calculator.exe.config
+H:\Intro to Programming\Average Calculator\Average Calculator\bin\Debug\Average Calculator.exe
+H:\Intro to Programming\Average Calculator\Average Calculator\bin\Debug\Average Calculator.pdb
+H:\Intro to Programming\Average Calculator\Average Calculator\obj\Debug\Average Calculator.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\Average Calculator\Average Calculator\obj\Debug\Average Calculator.exe
+H:\Intro to Programming\Average Calculator\Average Calculator\obj\Debug\Average Calculator.pdb

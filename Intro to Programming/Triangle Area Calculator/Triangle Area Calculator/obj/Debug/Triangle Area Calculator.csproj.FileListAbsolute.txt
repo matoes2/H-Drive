@@ -1,0 +1,6 @@
+H:\Intro to Programming\Triangle Area Calculator\Triangle Area Calculator\bin\Debug\Triangle Area Calculator.exe.config
+H:\Intro to Programming\Triangle Area Calculator\Triangle Area Calculator\bin\Debug\Triangle Area Calculator.exe
+H:\Intro to Programming\Triangle Area Calculator\Triangle Area Calculator\bin\Debug\Triangle Area Calculator.pdb
+H:\Intro to Programming\Triangle Area Calculator\Triangle Area Calculator\obj\Debug\Triangle Area Calculator.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\Triangle Area Calculator\Triangle Area Calculator\obj\Debug\Triangle Area Calculator.exe
+H:\Intro to Programming\Triangle Area Calculator\Triangle Area Calculator\obj\Debug\Triangle Area Calculator.pdb

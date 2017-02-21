@@ -1,0 +1,6 @@
+H:\Intro to Programming\Bored\Bored\bin\Debug\Bored.exe.config
+H:\Intro to Programming\Bored\Bored\obj\Debug\Bored.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\Bored\Bored\bin\Debug\Bored.exe
+H:\Intro to Programming\Bored\Bored\bin\Debug\Bored.pdb
+H:\Intro to Programming\Bored\Bored\obj\Debug\Bored.exe
+H:\Intro to Programming\Bored\Bored\obj\Debug\Bored.pdb

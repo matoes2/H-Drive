@@ -1,0 +1,7 @@
+H:\Uno1\Uno1\bin\Debug\Uno1.exe.config
+H:\Object Oriented Programming\Uno1\Uno1\Uno1\bin\Debug\Uno1.exe.config
+H:\Object Oriented Programming\Uno1\Uno1\Uno1\bin\Debug\Uno1.exe
+H:\Object Oriented Programming\Uno1\Uno1\Uno1\bin\Debug\Uno1.pdb
+H:\Object Oriented Programming\Uno1\Uno1\Uno1\obj\Debug\Uno1.csprojResolveAssemblyReference.cache
+H:\Object Oriented Programming\Uno1\Uno1\Uno1\obj\Debug\Uno1.exe
+H:\Object Oriented Programming\Uno1\Uno1\Uno1\obj\Debug\Uno1.pdb

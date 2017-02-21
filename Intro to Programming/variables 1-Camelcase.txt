@@ -1,0 +1,48 @@
+WorkHours: .5
+For each of the following state if it is a valid or invalid variable name.  If it is valid but not in camelcase fix the name to be camelcase.
+Example:
+thisIsAVariable    ->  valid
+Another_Example -> anotherExample
+A Variable -> invalid   -> can not have a space
+V@riable -> invalid
+
+//1
+camelCase -> valid
+//2
+iThinkThisIsTheCoolestVariableNameEverCreatedDoYouAgreeWithMeAsYouCanSeeThereIsNoLimitToTheMaxSizeForAVariableNameButFromAPracticalStandPointAndForReadabilityAShortDescriptiveNameMakesTheCodeEasierToReadAndLessCommentsAreNeeded -> Valid
+//3
+1Variable -> oneVariable
+//4
+Variable1 -> variableOne
+//5
+aVariable -> valid
+//6
+cool -> valid
+//7
+hereisavariable -> hereIsAVariable
+//8
+what_about_this_one -> whatAboutThisOne		
+//9
+camel_Case -> camelCase
+//10
+2_men_walked_into_a_bar -> twoMenWalkedIntoABar
+//11
+the3rdDucked -> theThirdDucked
+//12
+WhatDoYouCallABullThatSwallowedABomb -> whatDoYouCallABullThatSwallowedABomb
+//13
+aBombInABull -> valid
+//14
+whyDidTheBlondeNur$eCarryARedPen -> invalid
+//15
+ToDrawBlood -> toDrawBlood
+//16
+YouAreAlmostDone -> youAreAlmostDone
+//17
+3MoreToGo -> threeMoreToGo
+//18
+_OneLastBadJokeLeft -> oneLastBadJokeLeft
+//19
+whatIsBrownAndSticky -> valid
+//20
+aStick -> valid

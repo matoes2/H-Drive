@@ -1,0 +1,6 @@
+H:\Intro to Programming\Arrays\Arrays\bin\Debug\Arrays.exe.config
+H:\Intro to Programming\Arrays\Arrays\bin\Debug\Arrays.exe
+H:\Intro to Programming\Arrays\Arrays\bin\Debug\Arrays.pdb
+H:\Intro to Programming\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\Arrays\Arrays\obj\Debug\Arrays.exe
+H:\Intro to Programming\Arrays\Arrays\obj\Debug\Arrays.pdb

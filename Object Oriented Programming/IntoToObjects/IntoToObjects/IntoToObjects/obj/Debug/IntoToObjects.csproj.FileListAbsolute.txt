@@ -1,0 +1,10 @@
+C:\Users\dbaker\Documents\IntoToObjects\IntoToObjects\bin\Debug\IntoToObjects.exe.config
+C:\Users\arodriguez\Downloads\IntoToObjects\IntoToObjects\IntoToObjects\bin\Debug\IntoToObjects.exe.config
+C:\Users\arodriguez\Downloads\IntoToObjects\IntoToObjects\IntoToObjects\bin\Debug\IntoToObjects.exe
+C:\Users\arodriguez\Downloads\IntoToObjects\IntoToObjects\IntoToObjects\bin\Debug\IntoToObjects.pdb
+C:\Users\arodriguez\Downloads\IntoToObjects\IntoToObjects\IntoToObjects\obj\Debug\IntoToObjects.csprojResolveAssemblyReference.cache
+C:\Users\arodriguez\Downloads\IntoToObjects\IntoToObjects\IntoToObjects\obj\Debug\IntoToObjects.exe
+C:\Users\arodriguez\Downloads\IntoToObjects\IntoToObjects\IntoToObjects\obj\Debug\IntoToObjects.pdb
+C:\Users\arodriguez\Desktop\IntoToObjects\IntoToObjects\IntoToObjects\bin\Debug\IntoToObjects.exe.config
+C:\Users\arodriguez\Desktop\IntoToObjects\IntoToObjects\IntoToObjects\obj\Debug\IntoToObjects.exe
+C:\Users\arodriguez\Desktop\IntoToObjects\IntoToObjects\IntoToObjects\obj\Debug\IntoToObjects.pdb

@@ -1,0 +1,10 @@
+C:\Users\arodriguez\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\arodriguez\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\arodriguez\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\arodriguez\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\Math.csprojResolveAssemblyReference.cache
+C:\Users\arodriguez\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\arodriguez\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+H:\Intro to Programming\Math\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+H:\Intro to Programming\Math\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+H:\Intro to Programming\Math\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+H:\Intro to Programming\Math\ConsoleApplication4\obj\Debug\Math.csprojResolveAssemblyReference.cache

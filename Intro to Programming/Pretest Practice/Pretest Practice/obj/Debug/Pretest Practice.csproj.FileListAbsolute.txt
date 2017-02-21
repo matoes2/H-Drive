@@ -1,0 +1,6 @@
+H:\Intro to Programming\Pretest Practice\Pretest Practice\bin\Debug\Pretest Practice.exe.config
+H:\Intro to Programming\Pretest Practice\Pretest Practice\bin\Debug\Pretest Practice.exe
+H:\Intro to Programming\Pretest Practice\Pretest Practice\bin\Debug\Pretest Practice.pdb
+H:\Intro to Programming\Pretest Practice\Pretest Practice\obj\Debug\Pretest Practice.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\Pretest Practice\Pretest Practice\obj\Debug\Pretest Practice.exe
+H:\Intro to Programming\Pretest Practice\Pretest Practice\obj\Debug\Pretest Practice.pdb

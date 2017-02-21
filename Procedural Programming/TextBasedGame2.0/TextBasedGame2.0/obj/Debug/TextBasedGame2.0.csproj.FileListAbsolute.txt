@@ -1,0 +1,6 @@
+H:\Intro to Programming\TextBasedGame2.0\TextBasedGame2.0\bin\Debug\TextBasedGame2.0.exe.config
+H:\Intro to Programming\TextBasedGame2.0\TextBasedGame2.0\bin\Debug\TextBasedGame2.0.exe
+H:\Intro to Programming\TextBasedGame2.0\TextBasedGame2.0\bin\Debug\TextBasedGame2.0.pdb
+H:\Intro to Programming\TextBasedGame2.0\TextBasedGame2.0\obj\Debug\TextBasedGame2.0.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\TextBasedGame2.0\TextBasedGame2.0\obj\Debug\TextBasedGame2.0.exe
+H:\Intro to Programming\TextBasedGame2.0\TextBasedGame2.0\obj\Debug\TextBasedGame2.0.pdb

@@ -1,0 +1,6 @@
+H:\Intro to Programming\EndoOfIntroToProgramming\EndoOfIntroToProgramming\bin\Debug\EndoOfIntroToProgramming.exe.config
+H:\Intro to Programming\EndoOfIntroToProgramming\EndoOfIntroToProgramming\bin\Debug\EndoOfIntroToProgramming.exe
+H:\Intro to Programming\EndoOfIntroToProgramming\EndoOfIntroToProgramming\bin\Debug\EndoOfIntroToProgramming.pdb
+H:\Intro to Programming\EndoOfIntroToProgramming\EndoOfIntroToProgramming\obj\Debug\EndoOfIntroToProgramming.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\EndoOfIntroToProgramming\EndoOfIntroToProgramming\obj\Debug\EndoOfIntroToProgramming.exe
+H:\Intro to Programming\EndoOfIntroToProgramming\EndoOfIntroToProgramming\obj\Debug\EndoOfIntroToProgramming.pdb

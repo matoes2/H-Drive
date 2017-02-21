@@ -1,0 +1,6 @@
+H:\Intro to Programming\conversionsProgram\conversionsProgram\bin\Debug\conversionsProgram.exe.config
+H:\Intro to Programming\conversionsProgram\conversionsProgram\obj\Debug\conversionsProgram.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\conversionsProgram\conversionsProgram\bin\Debug\conversionsProgram.exe
+H:\Intro to Programming\conversionsProgram\conversionsProgram\bin\Debug\conversionsProgram.pdb
+H:\Intro to Programming\conversionsProgram\conversionsProgram\obj\Debug\conversionsProgram.exe
+H:\Intro to Programming\conversionsProgram\conversionsProgram\obj\Debug\conversionsProgram.pdb

@@ -1,0 +1,6 @@
+H:\Intro to Programming\IntroDemo\IntroDemo\bin\Debug\IntroDemo.exe.config
+H:\Intro to Programming\IntroDemo\IntroDemo\obj\Debug\IntroDemo.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\IntroDemo\IntroDemo\bin\Debug\IntroDemo.exe
+H:\Intro to Programming\IntroDemo\IntroDemo\bin\Debug\IntroDemo.pdb
+H:\Intro to Programming\IntroDemo\IntroDemo\obj\Debug\IntroDemo.exe
+H:\Intro to Programming\IntroDemo\IntroDemo\obj\Debug\IntroDemo.pdb

@@ -1,0 +1,156 @@
+Work Hours: 1.5
+
+What is the value of each variable at the end of each program?
+Example:
+int var1 = 5;
+int var2 = 3;
+var1 = var2;
+
+Answer 1:
+var1 = 3
+var2 = 3
+
+
+//1
+int variable1= 0;
+variable1= 1;
+variable1= 2;
+variable1= 3;
+
+Answer 1:
+variable1 = 3
+//2
+int variable1 = 0;
+int variable2 = 3;
+int variable3 = 5;
+int variable4 = 6;
+
+Answer 2:
+variable1 = 0
+variable2 = 3
+variable3 = 5
+variable4 = 6
+//3
+int variable1 = 1+1;
+int variable2 = 3-7;
+int variable3 = 5+1;
+int variable4 = 6;
+
+Answer 3:
+variable1 = 2
+variable2 = -4
+variable3 = 6
+variable4 = 6
+//4
+int variable1 = 0;
+int variable2 = 3 + variable1;
+int variable3 = 5 + variable2;
+int variable4 = 6 + variable3;
+
+Answer 4:
+variable1 = 0
+variable2 = 3
+variable3 = 8
+variable4 = 14
+//5
+int variable1 = 0;
+int variable2 = 3;
+int variable3 = 5;
+int variable4 = 6;
+variable1 = variable2;
+variable2 = variable3;
+
+Answer 5:
+variable1 = 3
+variable2 = 5
+variable3 = 5
+variable4 = 6
+//6
+int variable1 = 0;
+int variable2 = 3;
+int variable3 = 5;
+int variable4 = 6;
+variable1 = (variable2+2) + variable2;
+variable2 = variable1 - variable3;
+
+Answer 6:
+variable1 = 8
+variable2 = 3
+variable3 = 5
+variable4 = 6
+//7
+int variable1 = 0;
+int variable2 = 3;
+int variable3 = 5;
+int variable4 = 6;
+variable2 = variable2 + 1;
+variable2 = variable2 + 1;
+variable2 = variable2 + 1;
+variable3 = variable1 + variable4;
+
+Answer 7:
+variable1 = 0
+variable2 = 6
+variable3 = 6
+variable4 = 6
+//8
+int variable1 = 0;
+int variable2 = 3;
+int variable3 = 5;
+int variable4 = 6;
+variable1 = variable2 + variable3 +variable4;
+variable1 = variable1 +variable1;
+variable2 = variable3;
+variable1 = variable2 + variable3;
+
+Answer 8:
+variable1 = 10
+variable2 = 5
+variable3 = 5
+variable4 = 6
+//9
+int variable1 = 0;
+int variable2 = 3;
+int variable3 = 5;
+int variable4 = 6;
+variable1 = 7;
+variable1 = 133;
+variable1 = 5;
+variable1 = 547;
+variable1 = 31;
+variable1 = 1346;
+variable1 = 13465;
+variable1 = 546;
+variable1 = 2545;
+variable1 = 547;
+variable1 = 45;
+variable1 = 3567;
+variable1 = 547;
+variable1 = 32;
+variable1 = 1337;
+variable1 = 321;
+variable1 = 9;
+
+Answer 9:
+variable1 = 9
+variable2 = 3
+variable3 = 5
+variable4 = 6
+//10
+int variable1 = 0;
+int variable2 = 3;
+int variable3 = 5;
+int variable4 = 6;
+variable1 = 45;
+variable1 = 3567+6;
+variable1 = 547+7*20+8+4;
+variable1 = 32;
+variable1 = variable2 + variable3;
+variable1 = 321;
+variable1 = 11;
+
+Answer 10:
+variable1 = 11
+variable2 = 3
+variable3 = 5
+variable4 = 6

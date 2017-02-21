@@ -1,0 +1,6 @@
+H:\Intro to Programming\Conditionals Program\Conditionals Program\bin\Debug\Conditionals Program.exe.config
+H:\Intro to Programming\Conditionals Program\Conditionals Program\bin\Debug\Conditionals Program.exe
+H:\Intro to Programming\Conditionals Program\Conditionals Program\bin\Debug\Conditionals Program.pdb
+H:\Intro to Programming\Conditionals Program\Conditionals Program\obj\Debug\Conditionals Program.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\Conditionals Program\Conditionals Program\obj\Debug\Conditionals Program.exe
+H:\Intro to Programming\Conditionals Program\Conditionals Program\obj\Debug\Conditionals Program.pdb

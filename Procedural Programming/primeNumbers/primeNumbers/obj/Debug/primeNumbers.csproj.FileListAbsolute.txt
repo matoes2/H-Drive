@@ -1,0 +1,6 @@
+H:\Intro to Programming\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe.config
+H:\Intro to Programming\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe
+H:\Intro to Programming\primeNumbers\primeNumbers\bin\Debug\primeNumbers.pdb
+H:\Intro to Programming\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\primeNumbers\primeNumbers\obj\Debug\primeNumbers.exe
+H:\Intro to Programming\primeNumbers\primeNumbers\obj\Debug\primeNumbers.pdb

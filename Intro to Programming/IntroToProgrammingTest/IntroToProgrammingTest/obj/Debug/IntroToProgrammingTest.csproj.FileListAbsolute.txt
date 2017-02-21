@@ -1,0 +1,6 @@
+H:\Intro to Programming\IntroToProgrammingTest\IntroToProgrammingTest\bin\Debug\IntroToProgrammingTest.exe.config
+H:\Intro to Programming\IntroToProgrammingTest\IntroToProgrammingTest\bin\Debug\IntroToProgrammingTest.exe
+H:\Intro to Programming\IntroToProgrammingTest\IntroToProgrammingTest\bin\Debug\IntroToProgrammingTest.pdb
+H:\Intro to Programming\IntroToProgrammingTest\IntroToProgrammingTest\obj\Debug\IntroToProgrammingTest.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\IntroToProgrammingTest\IntroToProgrammingTest\obj\Debug\IntroToProgrammingTest.exe
+H:\Intro to Programming\IntroToProgrammingTest\IntroToProgrammingTest\obj\Debug\IntroToProgrammingTest.pdb

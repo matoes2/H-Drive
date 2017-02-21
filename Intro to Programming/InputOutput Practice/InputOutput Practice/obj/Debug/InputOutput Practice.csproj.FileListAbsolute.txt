@@ -1,0 +1,6 @@
+H:\Intro to Programming\InputOutput Practice\InputOutput Practice\bin\Debug\InputOutput Practice.exe.config
+H:\Intro to Programming\InputOutput Practice\InputOutput Practice\bin\Debug\InputOutput Practice.exe
+H:\Intro to Programming\InputOutput Practice\InputOutput Practice\bin\Debug\InputOutput Practice.pdb
+H:\Intro to Programming\InputOutput Practice\InputOutput Practice\obj\Debug\InputOutput Practice.csprojResolveAssemblyReference.cache
+H:\Intro to Programming\InputOutput Practice\InputOutput Practice\obj\Debug\InputOutput Practice.exe
+H:\Intro to Programming\InputOutput Practice\InputOutput Practice\obj\Debug\InputOutput Practice.pdb
